@@ -9,7 +9,7 @@
 define('TEST_SUITE', true); // disable custom error handlers
 
 define('APPPATH', dirname(__FILE__) . '/../');
-define('TESTURL', 'http://timber.devel:3003');
+define('TESTURL', 'http://hello.devel:3008');
 
 require '../magnus/base.php';
 require BASEPATH . '../simpletest/unit_tester.php';
