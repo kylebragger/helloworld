@@ -1,0 +1,2 @@
+-- CREATE DATABASE `hello_development` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci */;
+-- CREATE DATABASE `hello_test` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci */;

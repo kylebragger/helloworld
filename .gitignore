@@ -1,0 +1,5 @@
+.DS_Store
+uploads/*
+config/app.php
+config/db.php
+log/*
